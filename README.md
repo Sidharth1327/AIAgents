@@ -15,7 +15,7 @@ The goal is not just to showcase prototypes, but to build a reference collection
 ## Experiments
 
 ### 1. Conversational Agent with Context Awareness
-[🔗 View Notebook](notebooks/conversational_agent_with_context.ipynb)  
+[🔗 View Notebook](https://github.com/Sidharth1327/AIAgents/blob/main/ai-agents/Conversational_agent_with_context_awareness.ipynb)  
 
 A minimal conversational agent that maintains **dialogue history across multiple turns** using LangChain’s memory utilities.  
 - **Tech stack:** LangChain, OpenAI GPT (gpt-4o-mini), ChatMessageHistory, RunnableWithMessageHistory  
