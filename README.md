@@ -21,3 +21,11 @@ A minimal conversational agent that maintains **dialogue history across multiple
 - **Tech stack:** LangChain, OpenAI GPT (gpt-4o-mini), ChatMessageHistory, RunnableWithMessageHistory  
 - **Key idea:** Keeps track of prior messages to create coherent, context-aware conversations.  
 - **Future direction:** Persistent memory (Redis/Postgres), summarization memory, RAG integration, tool-use, and monitoring for production readiness.  
+
+### 2. AI Powered Simple Data Analysis Agent
+[🔗 View Notebook](https://github.com/Sidharth1327/AIAgents/blob/main/ai-agents/AI_powered_Data_Analysis_Ageny.ipynb)  
+
+An introductory agent that enables **natural language interaction with a dataset**, translating plain-text questions into structured data analysis.  
+- **Tech stack:** OpenAI GPT (gpt-4o-mini), Pandas, LangChain Agents  
+- **Key idea:** Combines a language model with data manipulation tools to let users query and explore a dataset without coding.  
+- **Future direction:** Real-world dataset integration (SQL/CSV/APIs), query translation into SQL/Pandas, richer analytics (visualizations, forecasting), explainability of executed operations, and deployment via Streamlit/Gradio for accessibility.  
